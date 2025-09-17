@@ -12,11 +12,11 @@ Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 • Discord: yasirwf <br>
 • Email: ysribnarif@gmail.com
 
-🌟 Job Opportunities & Business Proposals <br>
+🌟 Job Opportunities & Business Proposals:
 
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/yasirrkhn/).
 
-⚡️ Fun fact: <br>
+⚡️ Fun fact:
 
 Sharks are older than trees.
 
