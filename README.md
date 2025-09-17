@@ -1,15 +1,19 @@
 # Yasir Khan  
+
 I'm a software engineer, researcher, and builder. Always tinkering, always learning.
 
-I post from time to time on twitter: https://x.com/yasirwf
+I post from time to time on twitter: [yasirwf](https://x.com/yasirwf)
 
-Check out my portfolio: yasirk.vercel.app
+
+Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 
 📫 How to reach me:
 Discord: yasirwf
-Email: me@icanvardar.com
+Email: ysribnarif@gmail.com
+
 🌟 Job Opportunities & Business Proposals
-Connect with me on LinkedIn.
+Connect with me on [LinkedIn](https://www.linkedin.com/in/yasirrkhn/).
+
 ⚡️ Fun fact:
 Sharks are older than trees.
 
