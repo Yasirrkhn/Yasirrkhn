@@ -7,7 +7,7 @@ I post from time to time on twitter: [yasirwf](https://x.com/yasirwf)
 
 Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 
-
+<br>
 
 📫 How to reach me:
 
@@ -20,7 +20,7 @@ Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/yasirrkhn/).
 
-
+<br>
 
 ⚡️ Fun fact:
 
