@@ -1,4 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Yasir Khan  
+
+🚀 I’m a **Frontend Developer** learning React & building projects.  
+🎯 Currently working on: Full-stack apps  
+💡 Fun fact: I love design + coding!  
+
+## 🔧 Skills
+- HTML, CSS, JavaScript, Python 
+- React, TailwindCSS  
+- Git, GitHub  
+
+## 📫 Connect with me:
+- [Twitter](https://twitter.com/yasirwf)  
+- [LinkedIn](https://linkedin.com/in/yasirrkhn)
 
 <!--
 **Yasirrkhn/Yasirrkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
