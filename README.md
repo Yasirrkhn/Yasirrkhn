@@ -9,12 +9,11 @@ Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 
 📫 How to reach me:
 
-Discord: yasirwf
-
-Email: ysribnarif@gmail.com
+• Discord: yasirwf
+• Email: ysribnarif@gmail.com
 
 🌟 Job Opportunities & Business Proposals
-Connect with me on [LinkedIn](https://www.linkedin.com/in/yasirrkhn/).
+• Connect with me on [LinkedIn](https://www.linkedin.com/in/yasirrkhn/).
 
 ⚡️ Fun fact:
 Sharks are older than trees.
