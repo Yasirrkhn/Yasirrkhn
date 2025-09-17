@@ -13,9 +13,11 @@ Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 • Email: ysribnarif@gmail.com
 
 🌟 Job Opportunities & Business Proposals <br>
+
 • Connect with me on [LinkedIn](https://www.linkedin.com/in/yasirrkhn/).
 
 ⚡️ Fun fact: <br>
+
 Sharks are older than trees.
 
 <!--
