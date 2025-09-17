@@ -14,7 +14,7 @@ Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 • Discord: yasirwf <br>
 • Email: ysribnarif@gmail.com
 
-
+<br>
 
 🌟 Job Opportunities & Business Proposals:
 
