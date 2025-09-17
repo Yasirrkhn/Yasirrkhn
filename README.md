@@ -25,7 +25,7 @@ Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 ⚡️ Fun fact:
 
 Sharks are older than trees.<br><br>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRxdXp2MjNkNXBldGE2anZ4MGxyNHRiMXhnaG96OW1xb3ZhN2M5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o72FkreWNH9OlTtPq/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjRxdXp2MjNkNXBldGE2anZ4MGxyNHRiMXhnaG96OW1xb3ZhN2M5eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o72FkreWNH9OlTtPq/giphy.gif" width="200" />
 
 
 
