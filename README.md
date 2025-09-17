@@ -1,17 +1,17 @@
-# Hi there 👋, I'm Yasir Khan  
+# Yasir Khan  
+I'm a software engineer, researcher, and builder. Always tinkering, always learning.
 
-🚀 I’m a **Frontend Developer** learning React & building projects.  
-🎯 Currently working on: Full-stack apps  
-💡 Fun fact: I love design + coding!  
+I post from time to time on twitter: https://x.com/yasirwf
 
-## 🔧 Skills
-- HTML, CSS, JavaScript, Python 
-- React, TailwindCSS  
-- Git, GitHub  
+Check out my portfolio: yasirk.vercel.app
 
-## 📫 Connect with me:
-- [Twitter](https://twitter.com/yasirwf)  
-- [LinkedIn](https://linkedin.com/in/yasirrkhn)
+📫 How to reach me:
+Discord: yasirwf
+Email: me@icanvardar.com
+🌟 Job Opportunities & Business Proposals
+Connect with me on LinkedIn.
+⚡️ Fun fact:
+Sharks are older than trees.
 
 <!--
 **Yasirrkhn/Yasirrkhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
