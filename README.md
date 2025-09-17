@@ -8,7 +8,9 @@ I post from time to time on twitter: [yasirwf](https://x.com/yasirwf)
 Check out my portfolio: [yasir](https://yasirk.vercel.app/)
 
 📫 How to reach me:
+
 Discord: yasirwf
+
 Email: ysribnarif@gmail.com
 
 🌟 Job Opportunities & Business Proposals
