@@ -2,7 +2,7 @@
 
 Hey! I'm a software engineer. Always tinkering, always learning.
 
-I post from time to time on twitter: [yasirwf](https://x.com/yasirwf)
+I post from time to time on twitter: [yasirdotco](https://x.com/yasirdotco)
 
 
 Check out my portfolio: [yasir](https://yasirk.vercel.app/)
