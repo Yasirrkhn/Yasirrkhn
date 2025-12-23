@@ -1,6 +1,6 @@
 # Yasir Khan  
 
-I'm a software engineer, researcher, and builder. Always tinkering, always learning.
+Hey! I'm a software engineer. Always tinkering, always learning.
 
 I post from time to time on twitter: [yasirwf](https://x.com/yasirwf)
 
